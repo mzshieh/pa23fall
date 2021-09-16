@@ -12,7 +12,7 @@
 
 ## Textbook 
 +   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart.
-+   [舊版中文版紙本](https://www.tenlong.com.tw/products/9789864762729)
++   [中文版紙本](https://www.tenlong.com.tw/products/9789865025977)
 
 ## References
 +   Python 3 [Official Documents](https://docs.python.org/3/)
@@ -32,7 +32,7 @@
 
 ## Online Lecture Material
 
-On [Google Drive](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtMsLBdu9hc1J?usp=sharing)
+On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=sharing)
 
 ## Past Lecture Notes
 
@@ -48,7 +48,14 @@ On [Google Drive](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtM
 
 [Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
 
-## Term Poject
+## Term Project
+1. Midterm: A game agent using `pyautogui` and `opencv`
+    + Candidate 1: Candy rush?
+
+2. Final: A game using Telegram chatbot
+    + Candidate 1: Solitaire
+
+## Past Term Poject
 
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [ONET CONNECTION CLASSIC](https://html5games.com/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35)
