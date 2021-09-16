@@ -4,6 +4,7 @@
 +   Teaching Assistants: 
     + [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
     + [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
++   [Google Meet](https://meet.google.com/aoi-sncf-qsi) Link: https://meet.google.com/aoi-sncf-qsi
 
 ## Course Objectives
 
