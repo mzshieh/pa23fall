@@ -1,4 +1,4 @@
-# Introduction to Python Applications, 2021 Spring
+# Introduction to Python Applications, 2021 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
 +   Teaching Assistants: 
