@@ -52,6 +52,7 @@ On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje
 ## Term Project
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [Tower Swap](https://www.crazygames.com/game/tower-swap)
+        - [Specification](https://hackmd.io/@yuchingtw/SyG_dtHIF)
 
 2. Final: A game using Telegram chatbot
     + Candidate 1: Solitaire
