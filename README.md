@@ -56,6 +56,7 @@ On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje
 
 2. Final: A game using Telegram chatbot
     + Candidate 1: Solitaire
+        - [Specification](https://hackmd.io/@yuchingtw/HJGOSZyqK)  
 
 ## Past Term Poject
 
