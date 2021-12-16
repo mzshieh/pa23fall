@@ -20,6 +20,8 @@
 +   PyAutoGUI [Documents](https://pyautogui.readthedocs.io/en/latest/)
 +   [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 +	[Telegram Bot](https://telegram.org/)
++	[PyGame Shooting Game in 3 Hours](https://www.youtube.com/watch?v=61eX0bFAsYs)  
+
 
 ## Lecture Notes
 
@@ -29,8 +31,9 @@
 + [Lecture 4](https://hackmd.io/@truckski/SkBEZnPPO)
 + [Python Telegram Bot](https://hackmd.io/@yuchingtw/SJ1eDyVw_)
 + [Python Selenium Crawler](https://hackmd.io/@yuchingtw/BkUXN_v_u)
-+ [Lecture ?](https://hackmd.io/@truckski/SkIz9uDjd)
-
++ [Sending Email](https://hackmd.io/@truckski/SkIz9uDjd)
++ [PyGame](https://github.com/LeeLin2602/PyGame_Tutorial/)
+    
 ## Online Lecture Material
 
 On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=sharing)
