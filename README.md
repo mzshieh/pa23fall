@@ -1,10 +1,14 @@
-# Introduction to Python Applications, 2021 Fall
+# Introduction to Python Applications, 2023 Spring
 
-+   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
++   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    + [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
-    + [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
-+   [Google Meet](https://meet.google.com/aoi-sncf-qsi) Link: https://meet.google.com/aoi-sncf-qsi
+    +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
+    +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
++   Lectures will be given in ITSC PC4 classroom in Kuang Fu Campus 
++   Online lectures will be given via [Google Meet](https://meet.google.com/aoi-sncf-qsi) Link: https://meet.google.com/aoi-sncf-qsi
++   Past lectures videos: 
+    +   [2021 Fall](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=share_link)
+    +   [2021 Spring](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtMsLBdu9hc1J?usp=share_link)
 
 ## Course Objectives
 
@@ -22,9 +26,17 @@
 +	[Telegram Bot](https://telegram.org/)
 +	[PyGame Shooting Game in 3 Hours](https://www.youtube.com/watch?v=61eX0bFAsYs)  
 
-
 ## Lecture Notes
 
+TBA
+
+## Online Lecture Material
+
+On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL2fvI-dsmPL?usp=share_link)
+
+## Past Lecture Notes
+
+### 2021 Fall
 + [Lecture 1](https://hackmd.io/@truckski/HyEQXm6G_)
 + [Lecture 2](https://hackmd.io/@truckski/BkEgP7IQ_)
 + [Lecture 3](https://hackmd.io/@truckski/HkdMqaGSO)
@@ -33,26 +45,30 @@
 + [Python Selenium Crawler](https://hackmd.io/@yuchingtw/BkUXN_v_u)
 + [Sending Email](https://hackmd.io/@truckski/SkIz9uDjd)
 + [PyGame](https://github.com/LeeLin2602/PyGame_Tutorial/)
-    
-## Online Lecture Material
 
-On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=sharing)
-
-## Past Lecture Notes
-
+### 2021 Spring
 + [Lecture 1](https://hackmd.io/s/rJ6hmNpUN)
 + [Lecture 2](https://hackmd.io/s/ByMfXEPDN)
 + [Lecture 3](https://hackmd.io/s/HJmvTOrcV)
 + [Lecture 4](https://hackmd.io/s/S17MXDc3N)
 + [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1SFdDye4?type=view)
-+ [TA's slide](https://docs.google.com/presentation/d/1cY1txnYrNFKjYwyFOOAhwoqIJyra4fBt0wo-1A3_DNI/edit?usp=sharing)
++ [TA's slide](https://docs.google.com/presentation/d/1cY1txnYrNFKjYwyFOOAhw Automate the Boring Stuff with PythonoqIJyra4fBt0wo-1A3_DNI/edit?usp=sharing)
 + [MZ's notes on selenium for term project](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Byn7todAH)
 
 ## Python package installation
 
-[Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
+1. [2021 Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
 
 ## Term Project
+
+1. Midterm: A game agent using `pyautogui` and `opencv`
+2. Final: Applications involing chatbot or PyGame
+
+
+## Past Term Poject
+
+### 2021 Fall
+
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [Tower Swap](https://www.crazygames.com/game/tower-swap)
         - [Specification](https://hackmd.io/@yuchingtw/SyG_dtHIF)
@@ -62,7 +78,7 @@ On [Google Drive](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje
         - [Specification](https://hackmd.io/@yuchingtw/HJGOSZyqK)
         - [PyGame Sample Codes (Partial)](https://hackmd.io/@truckski/H1Wn325oF)  
 
-## Past Term Poject
+### 2021 Spring
 
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [ONET CONNECTION CLASSIC](https://html5games.com/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35)
