@@ -55,7 +55,8 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
 
 ## Python package installation
 
-1. [2021 Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
+1. [2023 Tutorial](https://hackmd.io/@vincentinttsh/Skl8K-BmAj) by TA
+2. [2021 Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
 
 ## Term Project
 
