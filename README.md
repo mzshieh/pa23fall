@@ -62,6 +62,8 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
 ## Term Project
 
 1. Midterm: A game agent using `pyautogui` and `opencv`
+    + Candidate 1: [Solvable Sheep Game](https://solvable-sheep-game.streakingman.com/)
+        - [Specification](https://hackmd.io/@truckski/r181LkDy3)
 2. Final: Applications involing chatbot or PyGame
 
 
