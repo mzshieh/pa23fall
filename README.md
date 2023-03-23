@@ -30,6 +30,7 @@
 
 + [Lecture 1](https://hackmd.io/@truckski/B1oHHMipj)
 + [Lecture 2](https://hackmd.io/@truckski/S1I7Tcp0s)
++ [Lecture 3](https://hackmd.io/@truckski/B1642IYg3)
 
 ## Online Lecture Material
 
