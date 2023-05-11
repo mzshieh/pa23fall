@@ -68,7 +68,8 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
     + Candidate 1: [Solvable Sheep Game](https://solvable-sheep-game.streakingman.com/)
         - [Specification](https://hackmd.io/@truckski/r181LkDy3)
 2. Final: Applications involing chatbot or PyGame
-
+    + Candidate 1: [Reversi](https://en.wikipedia.org/wiki/Reversi)
+        - [Specification](https://hackmd.io/@truckski/BJ_l615N2)
 
 ## Past Term Poject
 
