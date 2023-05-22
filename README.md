@@ -70,7 +70,7 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
 2. Final: Applications involing chatbot or PyGame
     + Candidate 1: [Reversi](https://en.wikipedia.org/wiki/Reversi)
         - [Specification](https://hackmd.io/@truckski/BJ_l615N2)
-        - [Partial Sample Code](https://hackmd.io/@truckski/H1Wn325oF)
+        - [Partial Sample Code](final_project_sample_code_1.py)
 
 ## Past Term Poject
 
@@ -83,7 +83,7 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
 2. Final: A game using Telegram chatbot or PyGame
     + Candidate 1: Solitaire
         - [Specification](https://hackmd.io/@yuchingtw/HJGOSZyqK)
-        - [PyGame Sample Codes (Partial)](final_project_sample_code_1.py)  
+        - [PyGame Sample Codes (Partial)](https://hackmd.io/@truckski/H1Wn325oF)  
 
 ### 2021 Spring
 
