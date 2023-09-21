@@ -1,4 +1,4 @@
-# Introduction to Python Applications, 2023 Spring
+# Introduction to Python Applications, 2023 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
@@ -9,6 +9,7 @@
 +   Past lectures videos: 
     +   [2021 Fall](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=share_link)
     +   [2021 Spring](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtMsLBdu9hc1J?usp=share_link)
+    +   [2023 Spring](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL2fvI-dsmPL?usp=share_link)
 
 ## Course Objectives
 
@@ -33,10 +34,6 @@
 + [Lecture 3](https://hackmd.io/@truckski/B1642IYg3)
 + [Lecture 4](https://hackmd.io/@truckski/Hk5kyKvQ2)
 + [Python Telegram Bot](https://hackmd.io/@truckski/SJkxm2gV3)
-
-## Online Lecture Material
-
-On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL2fvI-dsmPL?usp=share_link)
 
 ## Past Lecture Notes
 
@@ -64,6 +61,12 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
 
 ## Term Project
 
+TBD
+
+## Past Term Poject
+
+### 2023 Spring
+
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [Solvable Sheep Game](https://solvable-sheep-game.streakingman.com/)
         - [Specification](https://hackmd.io/@truckski/r181LkDy3)
@@ -71,8 +74,6 @@ On [Google Drive](https://drive.google.com/drive/folders/1bWFLtJKmNLFOHSCY3CkrvL
     + Candidate 1: [Reversi](https://en.wikipedia.org/wiki/Reversi)
         - [Specification](https://hackmd.io/@truckski/BJ_l615N2)
         - [Partial Sample Code](final_project_sample_code_1.py)
-
-## Past Term Poject
 
 ### 2021 Fall
 
