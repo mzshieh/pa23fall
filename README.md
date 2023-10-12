@@ -6,6 +6,7 @@
     +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
 +   Lectures will be given in ITSC PC4 classroom in Kuang Fu Campus 
 +   Online lectures will be given via [Google Meet](https://meet.google.com/aoi-sncf-qsi) Link: https://meet.google.com/aoi-sncf-qsi
+    +   [Recordings](https://drive.google.com/drive/folders/1pjDEL9tLx-v2VYUb9pFWQCQHuhjwRsiO?usp=drive_link)
 +   Past lectures videos: 
     +   [2021 Fall](https://drive.google.com/drive/folders/1TJVaP-GDk_hkYjBK3LdRje6qt5boBvbJ?usp=share_link)
     +   [2021 Spring](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtMsLBdu9hc1J?usp=share_link)
