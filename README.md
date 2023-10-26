@@ -62,8 +62,9 @@
 
 ## Term Project
 
-TBD
-
+1. Midterm:
+    + [Specification](https://hackmd.io/k6XMnrNNTnK4pZnU4RSCpQ)
+2. Final: TBD
 ## Past Term Poject
 
 ### 2023 Spring
